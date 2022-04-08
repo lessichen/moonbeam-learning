@@ -1,0 +1,9 @@
+课程导航：
+1.介绍和安装Truffle
+2.通过Truffle Box安装Moonbean开发节点
+3.使用MetaMask链接Moonbeam开发节点和Moonbase Alpha
+4.简单介绍智能合约概念
+5.ERC-20智能合约
+6.获取Moonbase Alpha测试代币
+7.使用Truffle在Moonbase Alpha部署ERC-20智能合约
+8.简单ERC-20操作和测试
